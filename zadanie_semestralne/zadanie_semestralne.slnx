@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="zadanie_semestralne/zadanie_semestralne.vcxproj" Id="b655fd93-b717-4a8e-9908-e32145dcf60f" />
+</Solution>
